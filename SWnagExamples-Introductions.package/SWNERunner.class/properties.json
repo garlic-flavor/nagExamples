@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "HironoriIchikawa 3/14/2022 19:50",
+	"super" : "Object",
+	"category" : "SWnagExamples-Introductions-Common",
+	"classinstvars" : [
+		"module"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SWNERunner",
+	"type" : "normal"
+}

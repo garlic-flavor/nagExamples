@@ -7,6 +7,9 @@ baseline: spec
 		"Dependencies"
 		self setUpDependencies: spec.
 		
+		spec
+			package: 'SWnagExamples-Introductions'
+		
 		"Packages"
 		
 		"Tests"
